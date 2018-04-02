@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73735" started-at="2018-01-29T05:30:16Z" finished-at="2018-01-29T05:31:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73735" started-at="2018-01-29T05:30:16Z" finished-at="2018-01-29T05:31:30Z">
+      <class name="AutomationTestCase.LoginTestCase">
+        <test-method status="PASS" signature="lp01()[pri:0, instance:AutomationTestCase.LoginTestCase@e874448]" name="lp01" duration-ms="38050" started-at="2018-01-29T11:00:16Z" finished-at="2018-01-29T11:00:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lp01 -->
+        <test-method status="PASS" signature="lp02()[pri:0, instance:AutomationTestCase.LoginTestCase@e874448]" name="lp02" duration-ms="11923" started-at="2018-01-29T11:00:54Z" finished-at="2018-01-29T11:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lp02 -->
+        <test-method status="PASS" signature="lp03()[pri:0, instance:AutomationTestCase.LoginTestCase@e874448]" name="lp03" duration-ms="12740" started-at="2018-01-29T11:01:06Z" finished-at="2018-01-29T11:01:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lp03 -->
+        <test-method status="PASS" signature="lp04()[pri:0, instance:AutomationTestCase.LoginTestCase@e874448]" name="lp04" duration-ms="10997" started-at="2018-01-29T11:01:19Z" finished-at="2018-01-29T11:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lp04 -->
+      </class> <!-- AutomationTestCase.LoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
