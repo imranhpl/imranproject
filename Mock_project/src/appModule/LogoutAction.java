@@ -11,4 +11,5 @@ public class LogoutAction {
 		 Thread.sleep(3000);
 		 HomePage.Logout(driver).click();
 		   }
+	 //test
 }
